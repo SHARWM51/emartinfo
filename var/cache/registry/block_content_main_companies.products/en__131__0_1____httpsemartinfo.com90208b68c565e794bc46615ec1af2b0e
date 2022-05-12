@@ -1,0 +1,139 @@
+a:2:{s:4:"data";a:1:{s:7:"content";s:7069:"        <div class="ty-mainbox-container clearfix">
+                    
+                <h1 class="ty-mainbox-title">
+                    
+                                            <span class="ty-mainbox-title__left">Vendor products</span><span class="ty-mainbox-title__right" id="products_search_total_found_11"><!--products_search_total_found_11--></span>
+                                        
+
+                </h1>
+            
+
+                <div class="ty-mainbox-body">
+
+    
+            
+        <a title="Ask a question" data-ca-target-id="new_thread_login_form" class="cm-dialog-opener cm-dialog-auto-size ty-vendor-communication__post-write" rel="nofollow">
+            <span 
+        class="ty-icon ty-icon-chat"
+                
+            ></span>
+            Ask a question
+        </a>
+
+                    <div id="new_thread_login_form" class="hidden ty-vendor-communication-login" title="Sign in">
+    <div class="ty-login-popup">
+        <h3>
+            Please sign in so that we can notify you about a reply
+        </h3>
+        
+
+    <div id="new_thread_login_form_popup_login_popup_form_container">
+            <form name="new_thread_login_form_popup_form" action="https://emartinfo.com/" method="post" class="cm-ajax cm-ajax-full-render">
+                    <input type="hidden" name="result_ids" value="new_thread_login_form_popup_login_popup_form_container" />
+            <input type="hidden" name="login_block_id" value="new_thread_login_form_popup" />
+            <input type="hidden" name="quick_login" value="1" />
+        
+        <input type="hidden" name="return_url" value="index.php?page=2&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list&amp;dispatch=companies.products&amp;company_id=1" />
+        <input type="hidden" name="redirect_url" value="index.php?page=2&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list&amp;dispatch=companies.products&amp;company_id=1" />
+
+        
+        <div class="ty-control-group">
+            <label for="login_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label cm-required cm-trim cm-email">E-mail</label>
+            <input type="text" id="login_new_thread_login_form_popup" name="user_login" size="30" value="" class="ty-login__input cm-focus" />
+        </div>
+
+        <div class="ty-control-group ty-password-forgot">
+            <label for="psw_new_thread_login_form_popup" class="ty-login__filed-label ty-control-group__label ty-password-forgot__label cm-required">Password</label><a href="https://emartinfo.com/index.php?dispatch=auth.recover_password" class="ty-password-forgot__a"  tabindex="5">Forgot your password?</a>
+            <input type="password" id="psw_new_thread_login_form_popup" name="password" size="30" value="" class="ty-login__input" maxlength="32" />
+        </div>
+
+                    
+            <div class="ty-login-reglink ty-center">
+                <a class="ty-login-reglink__a" href="https://emartinfo.com/profiles-add/" rel="nofollow">Register for a new account</a>
+            </div>
+        
+                                            <input type="hidden" data-recaptcha-v3-action="login" class="cm-recaptcha-v3" name=g-recaptcha-v3-token id="g_recaptcha_v3_token_recaptcha_627cb8f43ecba" />
+            
+
+        
+            
+                    Or sign-in with another identity provider:
+    <p class="ty-text-center">
+        <input type="hidden" name="redirect_url" value="index.php?page=2&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list&amp;dispatch=companies.products&amp;company_id=1" /><a class="cm-login-provider ty-hybrid-auth__icon" data-idp="1" data-provider="google"><img src="https://emartinfo.com/design/themes/responsive/media/images/addons/hybrid_auth/icons/flat_32x32/google.png" title="google" alt="google" /></a><a class="cm-login-provider ty-hybrid-auth__icon" data-idp="3" data-provider="facebook"><img src="https://emartinfo.com/design/themes/responsive/media/images/addons/hybrid_auth/icons/flat_32x32/facebook.png" title="facebook" alt="facebook" /></a><a class="cm-login-provider ty-hybrid-auth__icon" data-idp="4" data-provider="live"><img src="https://emartinfo.com/design/themes/responsive/media/images/addons/hybrid_auth/icons/flat_32x32/live.png" title="live" alt="live" /></a>    </p>
+
+
+
+
+            <div class="buttons-container clearfix">
+                <div class="ty-float-right">
+                        
+ 
+    <button  class="ty-btn__login ty-btn__secondary ty-btn" type="submit" name="dispatch[auth.login]" >Sign in</button>
+
+
+                </div>
+                <div class="ty-login__remember-me">
+                    <label for="remember_me_new_thread_login_form_popup" class="ty-login__remember-me-label"><input class="checkbox" type="checkbox" name="remember_me" id="remember_me_new_thread_login_form_popup" value="Y" />Remember me</label>
+                </div>
+            </div>
+        
+
+    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="e2ca49c0723b1d5367af9f6de8ad6e75" /></form>
+
+    <!--new_thread_login_form_popup_login_popup_form_container--></div>
+
+    </div>
+</div>
+
+            
+
+    <div class="hidden" id="new_thread_dialog_1" title="Contact M/s Lord Krishna Exim Company">
+    <form action="https://emartinfo.com/" method="post" class="cm-ajax cm-form-dialog-closer" name="add_thread_form_1" id="new_thread_form_1">
+        <input type="hidden" name="result_ids" value="new_thread_message_1,threads_container" />
+        <input type="hidden" name="redirect_url" value="index.php?page=2&amp;sort_by=product&amp;sort_order=asc&amp;layout=short_list&amp;dispatch=companies.products&amp;company_id=1" />
+        <input type="hidden" name="thread[company_id]" value="1" />
+        <input type="hidden" name="thread[object_type]" value="C" />
+        <input type="hidden" name="thread[object_id]" value="1" />
+        <input type="hidden" name="thread[communication_type]" value="vendor_to_customer" />
+
+        
+        <div id="new_thread_message_1">
+            <div class="ty-control-group">
+                <label for="thread_msg_1" class="ty-control-group__title cm-required">
+                                            Your message to M/s Lord Krishna Exim Company
+                                    </label>
+                <textarea id="thread_msg_1" name="thread[message]" class="ty-input-textarea ty-input-text-large" rows="5" cols="72"></textarea>
+            </div>
+        <!--new_thread_message_1--></div>
+
+        <div class="buttons-container">
+                
+ 
+    <button  class="ty-btn__primary cm-post cm-reset-link ty-btn" type="submit" name="dispatch[vendor_communication.create_thread]" >Send</button>
+
+
+        </div>
+    <input type="hidden" name="security_hash" class="cm-no-hide-input" value="e2ca49c0723b1d5367af9f6de8ad6e75" /></form>
+</div>
+
+
+
+
+<div id="products_search_11">
+    
+            
+            <p class="ty-no-items">No products found matching the search criteria</p>
+        
+
+    
+<!--products_search_11--></div>
+
+
+
+
+
+
+</div>
+    </div>
+
+";}s:6:"expiry";i:0;}

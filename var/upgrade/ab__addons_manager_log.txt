@@ -1,0 +1,181 @@
+2022-05-11 12:59:03: Downloading "ab__addons_manager" upgrade package
+2022-05-11 12:59:04: Upgrade package has been downloaded and ready to install
+
+
+################################################################################
+################################################################################
+2022-05-11 12:59:11: Starting installation of the "ab__addons_manager" upgrade package
+2022-05-11 12:59:11: Upgrading version 2.3.5 to 2.4.0
+2022-05-11 12:59:11: Running as user "emartinf"
+2022-05-11 12:59:11: Storing entry point files permissions...
+2022-05-11 12:59:11: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:11: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:11: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:11: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:11:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:11: Executing pre-upgrade validators
+2022-05-11 12:59:11: Found 0 validators at package
+2022-05-11 12:59:11: Executing "collisions" validator
+2022-05-11 12:59:11: Upgrade stopped: awaiting resolving "collisions" validator errors
+
+
+################################################################################
+################################################################################
+2022-05-11 12:59:20: Starting installation of the "ab__addons_manager" upgrade package
+2022-05-11 12:59:20: Upgrading version 2.3.5 to 2.4.0
+2022-05-11 12:59:20: Running as user "emartinf"
+2022-05-11 12:59:20: Storing entry point files permissions...
+2022-05-11 12:59:20: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:20: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:20: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:20: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:20:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:20: Executing pre-upgrade validators
+2022-05-11 12:59:20: Found 0 validators at package
+2022-05-11 12:59:20: Executing "collisions" validator
+2022-05-11 12:59:20: Executing "permissions" validator
+2022-05-11 12:59:20: Executing "restore" validator
+2022-05-11 12:59:20: Files and database backup skipped
+2022-05-11 12:59:20: Closing storefront
+2022-05-11 12:59:20: Sending upgrade information e-mail to: admin@emartinfo.com
+2022-05-11 12:59:24: E-mail was successfully sent
+2022-05-11 12:59:24: Executing 1 migrations found at package
+2022-05-11 12:59:24: Phinx by Rob Morgan - https://phinx.org. version 0.4.3
+2022-05-11 12:59:24: 
+2022-05-11 12:59:24: using config file ./app/Tygh/UpgradeCenter/Migrations/config.migrations.php
+2022-05-11 12:59:24: using config parser php
+2022-05-11 12:59:24: using migration path /home/emartinf/public_html/var/upgrade/packages/ab__addons_manager/content/migrations
+2022-05-11 12:59:24: using environment development
+2022-05-11 12:59:24: using adapter mysqli
+2022-05-11 12:59:24: using database emartinf_cscart
+2022-05-11 12:59:24:  -- createTable('phinxlog1652263160')
+2022-05-11 12:59:24:     -> 0.0131s
+2022-05-11 12:59:24: 
+2022-05-11 12:59:24:  == 20210616154739 UpdateLangVars: migrating
+2022-05-11 12:59:24:  == 20210616154739 UpdateLangVars: migrated 0.0079s
+2022-05-11 12:59:24: 
+2022-05-11 12:59:24: All Done. Took 0.0280s
+2022-05-11 12:59:24: Migrations were executed successfully
+2022-05-11 12:59:24: Copying package files
+2022-05-11 12:59:24: Deleting files removed at new version
+2022-05-11 12:59:24: Processing themes files
+2022-05-11 12:59:24: Installing languages using upgraded *.po files
+2022-05-11 12:59:24: Already installed languages: en
+2022-05-11 12:59:24: Languages to be installed: 
+2022-05-11 12:59:24: Installing "en" language... SKIPPED
+2022-05-11 12:59:24: Executing post-upgrade script "/home/emartinf/public_html/var/upgrade/packages/ab__addons_manager/content/scripts/post_script.php"
+2022-05-11 12:59:24: ab__addons_manager 2.4.0: Update languages.
+2022-05-11 12:59:24: Post-upgrade script executed successfully
+2022-05-11 12:59:24: Cleaning cache
+2022-05-11 12:59:24: Saving upgrade information to DB
+2022-05-11 12:59:24: Sending statistics
+2022-05-11 12:59:25: Deleting package contents
+2022-05-11 12:59:25: Restoring entry point files permissions...
+2022-05-11 12:59:25: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Changing permissions of "/home/emartinf/public_html/index.php" to 100644
+2022-05-11 12:59:25: Using chmod()... OK
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Changing permissions of "/home/emartinf/public_html/admin.php" to 100644
+2022-05-11 12:59:25: Using chmod()... OK
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Changing permissions of "/home/emartinf/public_html/api.php" to 100644
+2022-05-11 12:59:25: Using chmod()... OK
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Changing permissions of "/home/emartinf/public_html/vendor.php" to 100644
+2022-05-11 12:59:25: Using chmod()... OK
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Changing permissions of "/home/emartinf/public_html/" to 40755
+2022-05-11 12:59:25: Using chmod()... OK
+2022-05-11 12:59:25: ----------
+2022-05-11 12:59:25: Upgrade completed!
+2022-05-11 12:59:36: Downloading "ab__addons_manager" upgrade package
+2022-05-11 12:59:38: Upgrade package has been downloaded and ready to install
+
+
+################################################################################
+################################################################################
+2022-05-11 12:59:45: Starting installation of the "ab__addons_manager" upgrade package
+2022-05-11 12:59:45: Upgrading version 2.4.0 to 2.5.0
+2022-05-11 12:59:45: Running as user "emartinf"
+2022-05-11 12:59:45: Storing entry point files permissions...
+2022-05-11 12:59:45: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:45: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:45: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:45: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:45:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:45: Executing pre-upgrade validators
+2022-05-11 12:59:45: Found 0 validators at package
+2022-05-11 12:59:45: Executing "collisions" validator
+2022-05-11 12:59:45: Upgrade stopped: awaiting resolving "collisions" validator errors
+
+
+################################################################################
+################################################################################
+2022-05-11 12:59:50: Starting installation of the "ab__addons_manager" upgrade package
+2022-05-11 12:59:50: Upgrading version 2.4.0 to 2.5.0
+2022-05-11 12:59:50: Running as user "emartinf"
+2022-05-11 12:59:50: Storing entry point files permissions...
+2022-05-11 12:59:50: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:50: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:50: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:50: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:50:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:50: Executing pre-upgrade validators
+2022-05-11 12:59:50: Found 0 validators at package
+2022-05-11 12:59:50: Executing "collisions" validator
+2022-05-11 12:59:50: Executing "permissions" validator
+2022-05-11 12:59:50: Executing "restore" validator
+2022-05-11 12:59:50: Files and database backup skipped
+2022-05-11 12:59:50: Closing storefront
+2022-05-11 12:59:50: Sending upgrade information e-mail to: admin@emartinfo.com
+2022-05-11 12:59:53: E-mail was successfully sent
+2022-05-11 12:59:53: No migrations found at package
+2022-05-11 12:59:53: Copying package files
+2022-05-11 12:59:53: Deleting files removed at new version
+2022-05-11 12:59:53: Processing themes files
+2022-05-11 12:59:53: Installing languages using upgraded *.po files
+2022-05-11 12:59:53: Already installed languages: en
+2022-05-11 12:59:53: Languages to be installed: 
+2022-05-11 12:59:53: Installing "en" language... SKIPPED
+2022-05-11 12:59:53: Executing post-upgrade script "/home/emartinf/public_html/var/upgrade/packages/ab__addons_manager/content/scripts/post_script.php"
+2022-05-11 12:59:53: Post-upgrade script executed successfully
+2022-05-11 12:59:53: Cleaning cache
+2022-05-11 12:59:53: Saving upgrade information to DB
+2022-05-11 12:59:53: Sending statistics
+2022-05-11 12:59:55: Deleting package contents
+2022-05-11 12:59:55: Restoring entry point files permissions...
+2022-05-11 12:59:55: index.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Changing permissions of "/home/emartinf/public_html/index.php" to 100644
+2022-05-11 12:59:55: Using chmod()... OK
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: admin.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Changing permissions of "/home/emartinf/public_html/admin.php" to 100644
+2022-05-11 12:59:55: Using chmod()... OK
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: api.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Changing permissions of "/home/emartinf/public_html/api.php" to 100644
+2022-05-11 12:59:55: Using chmod()... OK
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: vendor.php ==> 33188 (-rw-r--r--)
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Changing permissions of "/home/emartinf/public_html/vendor.php" to 100644
+2022-05-11 12:59:55: Using chmod()... OK
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55:  ==> 16877 (drwxr-xr-x)
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Changing permissions of "/home/emartinf/public_html/" to 40755
+2022-05-11 12:59:55: Using chmod()... OK
+2022-05-11 12:59:55: ----------
+2022-05-11 12:59:55: Upgrade completed!
